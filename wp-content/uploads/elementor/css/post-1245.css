@@ -1,0 +1,32 @@
+.elementor-1245 .elementor-element.elementor-element-66d859d>.elementor-widget-wrap>.elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {
+    margin-bottom: 20px;
+}
+
+.elementor-1245 .elementor-element.elementor-element-e55ffa5 .edupls-header .navbar-expand-lg .navbar-collapse {
+    justify-content: flex-start;
+}
+
+.elementor-1245 .elementor-element.elementor-element-e55ffa5 .theme-button {
+    flex-direction: row;
+}
+
+.elementor-1245 .elementor-element.elementor-element-e55ffa5 .site-logo-wrap img {
+    object-fit: cover;
+}
+
+.elementor-1245 .elementor-element.elementor-element-e55ffa5 .main-navigation ul li.no-mega ul.sub-menu {
+    text-align: left;
+}
+
+.elementor-1245 .elementor-element.elementor-element-e55ffa5 .main-menu ul li.mega ul {
+    max-width: 1320px;
+}
+
+.elementor-1245 .elementor-element.elementor-element-e55ffa5 .main-menu ul li.mega ul li a {
+    text-align: left;
+}
+
+.elementor-1245 .elementor-element.elementor-element-5a036e8 {
+    --display: flex;
+    --background-transition: 0.3s;
+}

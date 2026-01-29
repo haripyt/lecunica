@@ -1,0 +1,240 @@
+/*!
+Theme Name: Edupls
+Theme URI:https://edupls.themepul.com/
+Author: ThemePul
+Author URI: https://themepul.com
+Description: Edupls Online Courses & Education WordPress Theme
+Version: 1.0.0
+Tested up to: 6.5
+Requires PHP: 7.4
+License: GNU General Public License v2 or later
+License URI: LICENSE
+Text Domain: edupls
+Tags: custom-background, custom-logo, custom-menu, featured-images, threaded-comments, translation-ready
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned.
+
+Edupls is based on Underscores https://underscores.me/, (C) 2012-2020 Automattic, Inc.
+Underscores is distributed under the terms of the GNU GPL v2 or later.
+
+Normalizing styles have been helped along thanks to the fine work of
+Nicolas Gallagher and Jonathan Neal https://necolas.github.io/normalize.css/
+*/
+
+/*------------------- 2.5. Mobile Menu -------------------*/
+
+.breadcroumb-area {
+    display: block !important;
+}
+
+h1 {
+    font-size: 45px !important;
+    color: #fff !important;
+}
+
+.hero-title {
+    display: none !important;
+}
+
+.crd .image-box-v1-item {
+    align-items: start;
+}
+
+.course-crd .course-one-author-info {
+    display: none;
+}
+
+.course-crd .course-one-bottom-area {
+    padding: 0px 30px 30px 25px;
+}
+
+.course-crd .course-one-meddile,
+.course-crd .course-one-price,
+.courses-template-default .tutor-course-details-widget,
+.tutor-btn-show-more,
+.tutor-course-details-content:before {
+    display: none;
+}
+
+.course-crd .course-one-content-area {
+    padding: 24px 30px 0px 30px;
+    border-bottom: 0px;
+}
+
+.course-one-category a {
+    bottom: 0px !important;
+    left: inherit !important;
+    right: 0px !important;
+}
+
+.border-img img {
+    border-radius: 20px !important;
+}
+
+.tutor-course-details-widget-title {
+    margin-bottom: 10px !important;
+}
+
+.tutor-course-details-widget-list {
+    margin-top: 0px !important;
+    margin-bottom: 16px;
+}
+
+.tutor-course-details-widget-list li {
+    align-items: center !important;
+}
+
+.tutor-course-details-widget-list li i {
+    color: #179bd7;
+    margin-top: 0px !important;
+}
+
+.tutor-d-flex.tutor-mb-12,
+.course-single-content-title {
+    margin-bottom: 5px;
+}
+
+.tutor-single-course-sidebar div:nth-child(4),
+.tutor-single-course-sidebar div:nth-child(5),
+#EduplsCourseTab,
+.sidebar-area .course-sidebar-box.tutor-mt-24 {
+    display: none;
+}
+
+.tutor-course-details-content {
+    height: auto !important;
+}
+
+.courses-template-default .tutor-d-flex br,
+.courses-template-default .course-single-meta-items,
+.courses-template-default .bre-sub {
+    display: none
+}
+
+.courses-template-default h2.course-details-title {
+    margin-bottom: 0px !important;
+}
+
+.courses-template-default .breadcroumb-area {
+    background-image: url('https://gtecannanagarchennai.in/wp-content/uploads/2024/07/inner-bnr.jpg') !important;
+    background-position: center !important;
+    background-size: cover !important;
+}
+
+.blg-crd {
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+    padding: 0px 0px 30px 0px;
+    gap: 6px;
+}
+
+.inr-crd {
+    padding-top: 15px;
+    line-height: 22px;
+    width: 32%;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.inr-crd i {
+    color: #179BD7;
+}
+
+.edupls-page-links.footer-addons svg {
+    fill: #fff;
+}
+
+.courses-template-default .post-2151 .course-info-lists ul li:nth-child(2),
+.courses-template-default .post-2151 .course-info-lists ul li:nth-child(3),
+.courses-template-default .post-2151 .course-info-lists ul li:nth-child(6),
+.courses-template-default .post-2151 .course-info-lists ul li:nth-child(4),
+.courses-template-default .post-2151 .course-info-lists ul li:nth-child(7) {
+    display: none;
+}
+
+.post-2157 .course-info-lists ul li:nth-child(2),
+.post-2157 .course-info-lists ul li:nth-child(3),
+.post-2157 .course-info-lists ul li:nth-child(5),
+.post-2157 .course-info-lists ul li:nth-child(6),
+.post-2155 .course-info-lists ul li:nth-child(2),
+.post-2155 .course-info-lists ul li:nth-child(3),
+.post-2155 .course-info-lists ul li:nth-child(5),
+.post-2155 .course-info-lists ul li:nth-child(6),
+.post-2152 .course-info-lists ul li:nth-child(2),
+.post-2152 .course-info-lists ul li:nth-child(3),
+.post-2152 .course-info-lists ul li:nth-child(5),
+.post-2152 .course-info-lists ul li:nth-child(6) {
+    display: none;
+}
+
+.breadcroumn-contnt .page-title {
+    color: #fff !important;
+}
+
+.cta-crd {
+    padding: 20px 20px;
+    border: 1px solid #E6E6E6;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0px 6px 26px 0px #E4E8F1;
+    margin: 20px 0px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 80%;
+}
+
+.cta-crd h5 {
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.cta-crd i {
+    font-size: 16px !important;
+    color: #000 !important;
+    font-weight: 400;
+}
+
+.crd-icon p {
+    display: none;
+}
+
+.crd-icon {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.call-btns .theme-button {
+    display: flex;
+    gap: 10px;
+}
+
+.call-btns .theme-button i {
+    margin-left: 0px !important;
+}
+
+@media (max-width: 768px) {
+    .inr-crd {
+        width: 45%;
+    }
+    .cta-crd {
+        width: 100%;
+    }
+    .cta-crd .course-one-button a {
+        font-size: 13px;
+        padding: 10px;
+    }
+    .cta-crd h5 {
+        font-size: 15px;
+    }
+}
+
+@media (max-width: 527px) {
+    .inr-crd {
+        width: 90%;
+    }
+}

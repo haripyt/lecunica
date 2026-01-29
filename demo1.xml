@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Main Pages -->
+  <url>
+    <loc>https://gtecannanagarchennai.in/</loc>
+   *
+    <priority>1.00</priority>
+  </url>
+  <url>
+    <loc>https://gtecannanagarchennai.in/about/</loc>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://gtecannanagarchennai.in/courses/</loc>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://gtecannanagarchennai.in/contact/</loc>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://gtecannanagarchennai.in/blog/</loc>
+    <priority>0.70</priority>
+  </url>
+
+  <!-- Course Pages -->
+  <url>
+    <loc>https://gtecannanagarchennai.in/courses/python-course-anna-nagar/</loc>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://gtecannanagarchennai.in/courses/java-course-anna-nagar/</loc>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://gtecannanagarchennai.in/courses/tally-course-anna-nagar/</loc>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://gtecannanagarchennai.in/courses/sap-course-in-anna-nagar-chennai/</loc>
+    <priority>0.70</priority>
+  </url>
+  <!-- Add other course pages below if known -->
+  <!-- Example placeholders (replace URL paths with actual ones if they exist) -->
+  <url>
+    <loc>https://gtecannanagarchennai.in/courses/advanced-excel-training-in-anna-nagar/</loc>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://gtecannanagarchennai.in/courses/digital-marketing-course/</loc>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://gtecannanagarchennai.in/courses/flutter-app-development-course/</loc>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://gtecannanagarchennai.in/courses/dart-course/</loc>
+    <priority>0.60</priority>
+  </url>
+  
+</urlset>
